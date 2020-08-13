@@ -1,1 +1,1 @@
-# Assignment
+# student management project
